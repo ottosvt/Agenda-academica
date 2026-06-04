@@ -11,5 +11,5 @@
 ### 1. Clonar o repositório
 Execute o comando abaixo no seu terminal para clonar o projeto e entrar na pasta:
 ```bash
-git clone [https://github.com/othonsav/agenda-de-estudos.git](https://github.com/othonsav/agenda-de-estudos.git)
-cd agenda-de-estudos
+git clone [https://github.com/ottosvt/Agenda-acadêmica.git](https://github.com/ottosvt/Agenda-acadêmica.git)
+cd Agenda-acadêmica
